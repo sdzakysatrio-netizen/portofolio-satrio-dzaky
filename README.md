@@ -32,8 +32,3 @@ Implementasi nyata dari rancangan menjadi aplikasi web dinamis yang mengintegras
 
 ## 3. Portofolio Data Analytics & Management
 
-Bagian ini menunjukkan kemampuan saya dalam merancang struktur relasi database operasional dan melakukan pengolahan data mentah.
-
-*   **Basis Data yang Digunakan:** `womanpreneur_db` (File `.sql` tersedia di repositori ini).
-*   **Optimasi Database:** Melakukan migrasi dan standarisasi enkripsi teks (*collation*) ke jenis `utf8mb4_general_ci` untuk menjamin kompatibilitas karakter, mencegah eror migrasi data, serta meningkatkan kecepatan kueri sorting.
-*   **Potensi Analisis Data:** Data pada tabel `kas_harian` (berisi *tanggal, nama_barang, jumlah, harga*) digunakan untuk melacak tren penjualan, menghitung omset harian wirausaha, serta menentukan produk kuliner terlaris (seperti Ketoprak Indomie dan Nasi Goreng).
